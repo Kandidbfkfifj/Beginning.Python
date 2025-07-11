@@ -42,17 +42,17 @@ questionThree = int(input("""what was your highest level in Fortnite?
 3. 50+
 4. 0
 : """))
-  if questionThree == 1:
+if questionThree == 1:
     optionone = optionone +1
-  elif questionThree == 2:
+elif questionThree == 2:
     optiontwo = optiontwo +1
-  elif questionThree == 3:
+elif questionThree == 3:
     optionthree = optionthree +1
-  elif questionThree == 4:
+elif questionThree == 4:
     optionfour = optionfour +1
-  else:
+else:
     print("Wrong input try again")
-print("Loadng results...")
+print("Loading results...")
 print("Results loaded")
 print("Your results are:")
 if optionone > optiontwo:
