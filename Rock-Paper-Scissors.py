@@ -51,7 +51,3 @@ if __name__ == "__main__":
                 print("Congrats!, you won!")
             elif "tie" in result.lower():
                 print("It is a tie, try again pls.")
-#is there maybe a way for me to mak the game more attractive and expand it more?
-#i know we have not had the chance to learn abt the return function or the topic "functions"
-#but before i started learning pathon at codex i was learning it from a different website and
-#thats why i know abt the functions and how to use them
