@@ -1,4 +1,6 @@
-print("Hogwarts magical Hat")
+print("""--->Fortnite addict Test<---
+by: ilvi
+""")
 optionone = 0
 optiontwo = 0
 optionthree = 0
