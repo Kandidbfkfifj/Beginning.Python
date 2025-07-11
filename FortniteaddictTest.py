@@ -36,7 +36,7 @@ elif questionTwo == 4:
   optionfour = optionfour +1
 else:
   print("Wrong input try again")
-  questionThree = int(input("""what was your highest level in Fortnite?
+questionThree = int(input("""what was your highest level in Fortnite?
 1. 200+
 2. 100+
 3. 50+
