@@ -26,3 +26,6 @@ to execute the file on windows and also linux just go to the folder where the fi
 link is here:----> https://www.python.org/downloads/
 
 --------------------------------------------------------------------------------------------------------------------
+passwd_maker.py is a password generator that generates you completly random passwords, with combinations of numbers,letters,and things like /()=?!"§$%
+how to use?:start the tool with python passwd_maker.py, when the tool starts you will be greatet with the question if you want to start the tool if you type in yes the tool will generate you 
+a random password, everything else will make the tool stop.
